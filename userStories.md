@@ -19,3 +19,6 @@
 ## As a user, I would like to the page to have characteristics of the old gameboy color with some functionality
 
 - Create a styling scheme which incorporates the old gameboy and use event listeners to create buttons which perform similar to tasks to the original game
+
+![Wireframe Version 1.0](wireframeV1.jpg)
+![Domain Model Version 1.0](domainmodelV1.jpg)
