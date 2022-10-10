@@ -30,5 +30,6 @@
 
 - Test: Observe the behaviour of the site to make sure it fits the specifications we agreed upon
 
-![Wireframe Version 1.0](wireframeV1.jpg)
-![Domain Model Version 1.0](domainmodelV1.jpg)
+### Wireframe and Domain Model v2
+
+![Figma](https://www.figma.com/file/dgMQv9AT49Odg1JCAguEAl/Team-PokeMongo?node-id=0%3A1)
